@@ -6,7 +6,7 @@ public class LaunchBrowserUsingTestNG {
 	
 	@Test
 	public void test() {
-		
+		System.out.println("Hello World!");
 	}
 
 }
